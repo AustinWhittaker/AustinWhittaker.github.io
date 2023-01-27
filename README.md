@@ -1,1 +1,1 @@
-# Check out my portfolio [here](http://www.AustinWhittaker.github.io)
+# Check out my portfolio [here](Austinwhittaker.github.io)
