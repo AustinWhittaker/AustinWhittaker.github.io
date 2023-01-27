@@ -1,1 +1,1 @@
-# (Austinwhittaker.github.io)
+# AustinWhittaker.github.io
